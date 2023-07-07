@@ -7,7 +7,7 @@ A simple Streamlit WebApp, which can predict Car Price with Machine Learning Mod
 ## How to use?
 ### Clone this repository.
 ```bash
-  git clone https://github.com/utkarshbelkhede/LeastSquare.git
+  git clone https://github.com/sumitsarwade/LeastSquare.git
 ```
 ### Method 1 - Using Docker
 **Prerequisite** - Docker
