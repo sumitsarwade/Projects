@@ -54,21 +54,5 @@ I used [Octoparse](https://www.octoparse.com/download/windows) to scrape the dat
 - Price
 - Age (Derived from Year Purchased)
 
-[Dataset Link](https://drive.google.com/file/d/11Ham5y71ng49ZKY7f1CS3d1BZgILUywV/view?usp=sharing)
+[Dataset Link](https://drive.google.com/file/d/11Ham5y71ng49ZKY7f1CS3d1BZgILUywV/view?usp=drive_link)
 
-## Project Organization
-![Tree](images/Tree.png)
-
-## Screenshots
-
-### Explore Page
-
-![Explore Page](images/Explore_page.png)
-
-### Model Page
-
-![Model Page](images/Models_page.png)
-
-### Predict Page
-
-![Predict Page](images/Prediction_page.png)
