@@ -77,9 +77,3 @@ I used [Octoparse](https://www.octoparse.com/download/windows) to scrape the dat
 ### Predict Page
 
 ![Predict Page](images/Prediction_page.png)
-
-### 🔗 Links
-
-https://www.linkedin.com/in/utkarshbelkhede/
-
-https://github.com/utkarshbelkhede
