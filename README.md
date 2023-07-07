@@ -1,5 +1,5 @@
 # Projects
-# Data Science Project
+# Data Science Projects
 
 Welcome to my data science project repository!
 
