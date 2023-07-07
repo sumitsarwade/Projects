@@ -3,16 +3,11 @@
 
 A simple Streamlit WebApp, which can predict Car Price with Machine Learning Models such as **Linear Regression, Ridge Regression, and Lasso Regression**.
 
-[See Project Documentation](https://docs.google.com/document/d/1oW7xq0iSP3OqRFctUsz4QZQ90_T0gBaEjTF6NhJ-UrE/edit?usp=sharing)
-### [See Demo on Heroku](https://least2.herokuapp.com/)
-
-I've also trained this using **Neural Network**.
-[See it on Colab](https://drive.google.com/file/d/1dTJbutFd8ykwrUlPHMy9j8tWd0sad1Db/view?usp=sharing)
 
 ## How to use?
 ### Clone this repository.
 ```bash
-  git clone https://github.com/utkarshbelkhede/LeastSquare.git
+  git clone https://github.com/sumitsarwade/LeastSquare.git
 ```
 ### Method 1 - Using Docker
 **Prerequisite** - Docker
@@ -59,27 +54,6 @@ I used [Octoparse](https://www.octoparse.com/download/windows) to scrape the dat
 - Price
 - Age (Derived from Year Purchased)
 
-[Dataset Link](https://drive.google.com/file/d/11Ham5y71ng49ZKY7f1CS3d1BZgILUywV/view?usp=sharing)
+[Dataset Link](https://drive.google.com/file/d/11Ham5y71ng49ZKY7f1CS3d1BZgILUywV/view?usp=drive_link)
 
-## Project Organization
-![Tree](images/Tree.png)
-
-## Screenshots
-
-### Explore Page
-
-![Explore Page](images/Explore_page.png)
-
-### Model Page
-
-![Model Page](images/Models_page.png)
-
-### Predict Page
-
-![Predict Page](images/Prediction_page.png)
-
-### 🔗 Links
-
-https://www.linkedin.com/in/utkarshbelkhede/
-
-https://github.com/utkarshbelkhede
+https://github.com/sumitsarwade
