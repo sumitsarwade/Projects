@@ -3,6 +3,7 @@
 NLPiffy is a user-friendly web application built with Streamlit that offers a range of Natural Language Processing (NLP) functionalities. This app allows users to perform various NLP tasks such as Tokenization, Named Entity Recognition (NER), Sentiment Analysis, Part-of-Speech (POS) Tagging, Dependency Parsing, and Text Summarization.
 
 
+
 ## Features
 
 - **Tokenization**: Analyze and display the tokens and lemmas of the input text.
