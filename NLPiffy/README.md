@@ -56,10 +56,3 @@ To get started with NLPiffy, follow these steps:
   ```bash
     streamlit run NLPiffy.py
 
-
-
-
-
-
-
-
